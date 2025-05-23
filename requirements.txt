@@ -1,0 +1,5 @@
+streamlit
+yt-dlp
+transformers
+soundfile
+torch 
