@@ -2,7 +2,7 @@ streamlit
 yt-dlp
 transformers
 soundfile
-torch
-speechbrain
-torchaudio
-nest-asyncio 
+torch==1.10.0
+speechbrain==0.5.14
+torchaudio==0.10.0
+nest_asyncio 
