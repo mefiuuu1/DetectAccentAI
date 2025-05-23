@@ -146,7 +146,7 @@ if st.button("Analyze Accent", type="primary"):
                 "--audio-format", "wav",
                 "--no-check-certificate",
                 "--output", output_audio_path,
-                "--postprocessor-args", "ffmpeg:-t 50",
+                "--postprocessor-args", "ffmpeg:-t 30",
                 video_url
             ]
 
