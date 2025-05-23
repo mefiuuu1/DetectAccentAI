@@ -2,4 +2,7 @@ streamlit
 yt-dlp
 transformers
 soundfile
-torch 
+torch
+speechbrain
+torchaudio
+nest-asyncio 

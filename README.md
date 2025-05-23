@@ -1,5 +1,7 @@
 # English Accent Detector
 
+⚠️ **Warning:** This tool analyzes only the first few seconds of the audio/video to detect the accent. The results may be inaccurate, especially for similar accents (e.g., Indian English vs US English). The SpeechBrain model used is open-source and has limitations. For professional results, we recommend using a commercial speech-to-text service with accent detection.
+
 This is a simple Streamlit application to download audio from a public video URL and classify the speaker's English accent using a pre-trained Hugging Face model.
 
 ## Prerequisites
