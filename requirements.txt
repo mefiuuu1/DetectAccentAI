@@ -1,8 +1,8 @@
 streamlit
 yt-dlp
-transformers
+transformers==4.31.0
 soundfile
 torch==1.10.0
 speechbrain==0.5.14
 torchaudio==0.10.0
-nest_asyncio 
+nest_asyncio
