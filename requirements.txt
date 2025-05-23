@@ -1,8 +1,9 @@
-     streamlit
-     yt-dlp
-     transformers==4.31.0
-     soundfile
-     torch
-     torchaudio
-     speechbrain==1.0.3
-     nest_asyncio
+--extra-index-url https://download.pytorch.org/whl/cpu
+streamlit
+yt-dlp
+transformers==4.31.0
+soundfile
+torch==1.10.0+cpu
+torchaudio==0.10.0+cpu
+speechbrain==0.5.14
+nest_asyncio
